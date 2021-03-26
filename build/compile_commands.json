@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/build",
+  "command": "/usr/bin/clang  -I\"/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/external/glad/include\" -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -o CMakeFiles/glad.dir/external/glad/src/glad.c.o -c \"/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/external/glad/src/glad.c\"",
+  "file": "/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/external/glad/src/glad.c"
+},
+{
+  "directory": "/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/build",
+  "command": "/usr/bin/clang++  -I\"/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/external/glad/include\" -isystem /usr/local/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk/System/Library/Frameworks  -std=c++17 -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -o CMakeFiles/CGI_CHEKUNOV.dir/main.cpp.o -c \"/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/main.cpp\"",
+  "file": "/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/main.cpp"
+},
+{
+  "directory": "/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/build",
+  "command": "/usr/bin/clang++  -I\"/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/external/glad/include\" -isystem /usr/local/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk/System/Library/Frameworks  -std=c++17 -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -o CMakeFiles/CGI_CHEKUNOV.dir/external/imgui/imgui_demo.cpp.o -c \"/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/external/imgui/imgui_demo.cpp\"",
+  "file": "/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/external/imgui/imgui_demo.cpp"
+},
+{
+  "directory": "/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/build",
+  "command": "/usr/bin/clang++  -I\"/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/external/glad/include\" -isystem /usr/local/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk/System/Library/Frameworks  -std=c++17 -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -o CMakeFiles/CGI_CHEKUNOV.dir/external/imgui/imgui_draw.cpp.o -c \"/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/external/imgui/imgui_draw.cpp\"",
+  "file": "/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/external/imgui/imgui_draw.cpp"
+},
+{
+  "directory": "/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/build",
+  "command": "/usr/bin/clang++  -I\"/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/external/glad/include\" -isystem /usr/local/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk/System/Library/Frameworks  -std=c++17 -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -o CMakeFiles/CGI_CHEKUNOV.dir/external/imgui/imgui_impl_glfw.cpp.o -c \"/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/external/imgui/imgui_impl_glfw.cpp\"",
+  "file": "/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/external/imgui/imgui_impl_glfw.cpp"
+},
+{
+  "directory": "/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/build",
+  "command": "/usr/bin/clang++  -I\"/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/external/glad/include\" -isystem /usr/local/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk/System/Library/Frameworks  -std=c++17 -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -o CMakeFiles/CGI_CHEKUNOV.dir/external/imgui/imgui_impl_opengl3.cpp.o -c \"/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/external/imgui/imgui_impl_opengl3.cpp\"",
+  "file": "/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/external/imgui/imgui_impl_opengl3.cpp"
+},
+{
+  "directory": "/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/build",
+  "command": "/usr/bin/clang++  -I\"/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/external/glad/include\" -isystem /usr/local/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk/System/Library/Frameworks  -std=c++17 -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -o CMakeFiles/CGI_CHEKUNOV.dir/external/imgui/imgui_tables.cpp.o -c \"/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/external/imgui/imgui_tables.cpp\"",
+  "file": "/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/external/imgui/imgui_tables.cpp"
+},
+{
+  "directory": "/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/build",
+  "command": "/usr/bin/clang++  -I\"/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/external/glad/include\" -isystem /usr/local/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk/System/Library/Frameworks  -std=c++17 -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -o CMakeFiles/CGI_CHEKUNOV.dir/external/imgui/imgui_widgets.cpp.o -c \"/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/external/imgui/imgui_widgets.cpp\"",
+  "file": "/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/external/imgui/imgui_widgets.cpp"
+},
+{
+  "directory": "/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/build",
+  "command": "/usr/bin/clang++  -I\"/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/external/glad/include\" -isystem /usr/local/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk/System/Library/Frameworks  -std=c++17 -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -o CMakeFiles/CGI_CHEKUNOV.dir/external/imgui/imgui.cpp.o -c \"/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/external/imgui/imgui.cpp\"",
+  "file": "/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/external/imgui/imgui.cpp"
+}
+]

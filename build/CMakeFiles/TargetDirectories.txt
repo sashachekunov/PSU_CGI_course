@@ -1,0 +1,6 @@
+/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/build/CMakeFiles/package.dir
+/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/build/CMakeFiles/edit_cache.dir
+/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/build/CMakeFiles/rebuild_cache.dir
+/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/build/CMakeFiles/package_source.dir
+/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/build/CMakeFiles/CGI_CHEKUNOV.dir
+/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/build/CMakeFiles/glad.dir

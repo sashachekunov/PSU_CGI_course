@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CGI_CHEKUNOV",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CGI_CHEKUNOV::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CGI_CHEKUNOV-Release-219a5101e5d73397ea04.json",
+					"name" : "CGI_CHEKUNOV",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "glad::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-glad-Release-9b74f766f18a4019d548.json",
+					"name" : "glad",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV/build",
+		"source" : "/Users/macbook/Google Диск/Документы/Образование/Бакалавриат/Лабораторные работы/Графика/CGI_CHEKUNOV"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}
